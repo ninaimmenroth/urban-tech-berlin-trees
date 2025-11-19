@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+geopandas
+shapely
+fiona
+requests
+scikit-learn
+tqdm
+earthengine-api
+folium
+jupyter
