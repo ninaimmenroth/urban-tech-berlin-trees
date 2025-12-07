@@ -10,3 +10,4 @@ tqdm
 earthengine-api
 folium
 jupyter
+contextily
