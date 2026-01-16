@@ -11,3 +11,4 @@ earthengine-api
 folium
 jupyter
 contextily
+seaborn
