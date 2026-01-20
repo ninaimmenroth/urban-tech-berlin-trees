@@ -12,3 +12,4 @@ folium
 jupyter
 contextily
 seaborn
+statsmodels
